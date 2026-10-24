@@ -1,0 +1,48 @@
+# Lesson 1: English Vocabulary — In the Bedroom (Corrected Transcript)
+
+> Teacher: Ronnie (English with Ronnie / engVid)
+> Source: Video transcript (speech-to-text, corrected for errors)
+
+---
+
+Hello, welcome to my bedroom. Well, it's not actually my bedroom. It's a whiteboard with words on it. But I'm going to teach you about bedroom vocabulary. Stay tuned — maybe I'll teach you some other bedroom vocabulary later, if you know what I mean. But we're going to stay on the innocent side today, and I'm going to teach you about basic things in bedrooms.
+
+I know, I know. Okay. This is a bed. Do you sleep on a bed, or do you sleep on a futon? Oh, did I speak Japanese? Hello, Japanese people in the house! Konnichiwa! Anyway, when you sleep, you usually sleep on a futon. We have stolen your word — we're so nice — and we use it for our own futon. A futon, if you don't know, is basically a mattress that you put on the floor. It sounds kind of uncomfortable, but it's really, really good if you're really drunk, and there's never a fear of falling out of the bed. You just kind of roll over and boom, you're awake. It has some advantages and some disadvantages.
+
+So this is a picture of a bed. I am an artist — remember this as we go through this.
+
+The first very common thing that you will find in a bedroom is a pillow. A lot of people, I don't know why, have never learned this word in English. I know it's not in a lot of textbooks. You don't open your textbook... oh well. This is a pillow. You're more like, "This is a pen. Oh, thanks, I know that." So the first one is a pillow.
+
+A pillow is a soft, squishy thing that you put your head on — not that head, this head. And to keep your pillow clean, you're going to put a pillow case on it. A pillow case is like a cover for the pillow. You can take the pillow case off and please wash it.
+
+You can have different kinds of pillows. There are feather pillows. So what we do is we take a duck or a goose, we kill it, we take all its feathers off, and we stick them in a pillow. Yeah, I don't think that's really cool. Or you can just have a fluffy cotton pillow, or a microfiber pillow. And you have a pillow case.
+
+The next thing that is essential for a bed... please, are sheets. Now be careful with your pronunciation. You don't want to say "shit" — that's the stuff that comes out of your bum. You want to say "sheets". When you say this, the "ee" sound is very long. So you can say sheets.
+
+Usually we have a top sheet and a fitted sheet. The fitted sheet just means it's the bottom sheet. They like to use fancy words like "fitted sheet" and "top sheet" — it's just two sheets. And you know what, you can just use two of these, don't worry about it. The top sheet goes on top, and the fitted sheet goes on the bottom. It covers the mattress.
+
+The main part of your bed here is a mattress. The mattress is like a big fluffy thing that you get to relax on. And the black part of my picture would be a bed frame. Let's write that down — it's important. So a bed frame is the support of the mattress.
+
+Pillow, pillow case, sheets — top and bottom, or fitted sheets.
+
+Next: in Canada, or maybe in your country, in the winter it's cold, you want something to cover you. Sheets are very thin — they're usually made of cotton. A cover, or a blanket... a duvet. "Duvet" — what? This word is a French word, so the way that we say it looks very different from the spelling. It looks like "do-vet", but it's actually very important that you say this properly, and you say "do-vay". So it's like "do-vay". I think that maybe some people, especially people in America, would say "I got a new duvet cover. It's got some 'W's on it."
+
+The next one is a comforter. Comforter, duvet, blanket, cover. And the last one: a quilt. They're all the same — don't tell people who like to design beds and fabrics that. It's just something that keeps you warm. There are slight differences between a quilt, a comforter and a duvet, but you can discover that for yourself. You've got homework: go to a store, ask the people that work there to show you a quilt, a comforter, a duvet, a blanket and a cover. You're practising your English!
+
+The next thing that you would have in your bedroom is furniture. Furniture is an uncountable noun. Furniture includes a bed, a night stand... Ronnie, what's a night stand? Oh, no, not standing up at night time — what? No! A night stand — or maybe this makes more sense — a bedside table. Look at my picture. This thing right here is a bedside table. It's beside your bed, and it's a table. I know, sometimes English makes sense! Night stand or bedside table — these are the same. Some people say night stand, some people say bedside table, some people just say "that thing beside the bed", but it is definitely a nightstand table or a bed stand.
+
+Also we have a dresser. Or the long way to say it: dresser drawers. Or you can just say drawers. It's your choice. I naturally would say dresser. I would say "I'm going to put my clothes into the dresser." A dresser is a piece of furniture that you put your clothes into — clean clothes. People don't put their dirty stuff in my dresser. So you're gonna put your beautifully folded-up underwear and socks into a dresser.
+
+Maybe above your dresser, you have a mirror. A mirror is something that you look at and you can see yourself — ah, your reflection. You see yourself in the mirror. It's most common to have a mirror in a bathroom, but in a bedroom and a bathroom as well — people like to look at themselves, make sure everything's in the right places.
+
+This... this contraption made by Satan is called an alarm clock. You might just know the word "alarm" — that's okay, you can just say alarm. But please, please, please, when you say this word, do not say this word by mistake. "Alarm clock" — you have to... right there. If you say "alarm cock"... cock means penis. Don't say "alarm cock". You want to say "alarm clock".
+
+An alarm clock goes off — beep! — it's time for you to get out of bed, go to work, go to school. We have a magic button on the alarm clock, and this is called a snooze button, or snooze bar. A snooze button is magic. It gives you ten long, luscious minutes of extra sleeping time. So if your alarm clock is set for seven-oh-two, you hit this snooze, and it will give you ten minutes more sleep. You might hear people saying to their boss — the boss might say, "Why are you late?" — "I hit the snooze... I just hit the snooze five times, that's an hour, so I'm late." Good excuse — if you're late to say "I hit the snooze" and like... oh yeah, okay, danger button, ten minutes of lovely sleep.
+
+If you watch a very popular TV show called Sex and the City, or any TV show, I guess — women mostly, ladies in the house — are going to go on about a walk-in closet. Normally in houses you're gonna have a closet. A closet is like a little room. There's a door, you open it, and inside is where we hang our clothes. These are clothes.
+
+If you are lucky enough to have a walk-in closet, it's like a whole other entity, or a whole other room. A walk-in closet is basically a room, and it is really, really big, and there's lots of places to hang all of your clothes that you never wear. So a walk-in closet means a very big closet. In my house, I have a closet. Don't open it though — you never know what's gonna come flying out. Yeah, yeah.
+
+Another word for closet is cupboard, which is very strange. The pronunciation of this word is... it's very strange. We say "cub-berd". Cupboard. It looks like "cup-board", but... A long, long time ago, we would definitely have a cupboard in our kitchen. Now we have a cupboard in our bedroom. So a closet and a cupboard are the same — it's a place to put your clothes.
+
+I hope you enjoyed the lesson. If you have questions about your bedroom, ask me. Bye!
