@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" font-family="DejaVu Sans, sans-serif">
+  <rect width="840" height="430" fill="#ffffff"/>
+  <text x="420" y="44" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">a or an ?  — listen to the SOUND</text>
+  <text x="420" y="72" font-size="15" text-anchor="middle" fill="#666">Use "an" before a vowel SOUND, "a" before a consonant SOUND (letter doesn't matter)</text>
+
+  <!-- rule boxes -->
+  <rect x="70" y="110" width="330" height="120" rx="12" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="235" y="150" font-size="22" font-weight="bold" text-anchor="middle" fill="#2c6fbb">a + consonant sound</text>
+  <text x="235" y="185" font-size="17" text-anchor="middle" fill="#1a1a1a">a book   a pen</text>
+  <text x="235" y="212" font-size="16" text-anchor="middle" fill="#c0392b">a university  (/ju:/ = consonant!)</text>
+
+  <rect x="440" y="110" width="330" height="120" rx="12" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+  <text x="605" y="150" font-size="22" font-weight="bold" text-anchor="middle" fill="#e08a1e">an + vowel sound</text>
+  <text x="605" y="185" font-size="17" text-anchor="middle" fill="#1a1a1a">an apple   an egg</text>
+  <text x="605" y="212" font-size="16" text-anchor="middle" fill="#3a9d5d">an hour  (/aʊ/ = vowel! h silent)</text>
+
+  <!-- trap note -->
+  <rect x="70" y="260" width="700" height="130" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="90" y="295" font-size="17" font-weight="bold" fill="#c0392b">Native trick — say it out loud:</text>
+  <text x="90" y="325" font-size="16" fill="#1a1a1a">"a umbrella" sounds wrong  ->  an umbrella   (um-BREL-a starts with vowel)</text>
+  <text x="90" y="353" font-size="16" fill="#1a1a1a">"an university" sounds wrong ->  a university  (you-NI-ver-si-ty starts with consonant y)</text>
+  <text x="90" y="381" font-size="16" fill="#1a1a1a">"an hour" sounds right       ->  an hour       (the h is silent: OUR)</text>
+</svg>

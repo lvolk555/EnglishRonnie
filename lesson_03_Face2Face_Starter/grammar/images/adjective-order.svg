@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" font-family="DejaVu Sans, sans-serif">
+  <rect width="860" height="380" fill="#ffffff"/>
+  <text x="430" y="44" font-size="26" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Adjective word order</text>
+  <text x="430" y="72" font-size="15" text-anchor="middle" fill="#666">English puts words in a FIXED order before a noun — natives never mix it up</text>
+
+  <!-- flow boxes -->
+  <g font-size="16" text-anchor="middle">
+    <rect x="40" y="120" width="90" height="70" rx="10" fill="#2c6fbb" /><text x="85" y="150" font-size="18" font-weight="bold" fill="#fff">a</text><text x="85" y="175" font-size="12" fill="#dce8f7">article</text>
+    <rect x="150" y="120" width="120" height="70" rx="10" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="1.5"/><text x="210" y="150" fill="#2c6fbb">opinion</text><text x="210" y="172" font-size="12" fill="#555">big, beautiful</text>
+    <rect x="290" y="120" width="130" height="70" rx="10" fill="#eafbf0" stroke="#3a9d5d" stroke-width="1.5"/><text x="355" y="150" fill="#3a9d5d">size / age</text><text x="355" y="172" font-size="12" fill="#555">small, new, old</text>
+    <rect x="440" y="120" width="110" height="70" rx="10" fill="#fdeee0" stroke="#e08a1e" stroke-width="1.5"/><text x="495" y="150" fill="#e08a1e">color</text><text x="495" y="172" font-size="12" fill="#555">red, blue</text>
+    <rect x="570" y="120" width="120" height="70" rx="10" fill="#1a1a1a" /><text x="630" y="150" font-size="18" font-weight="bold" fill="#fff">NOUN</text><text x="630" y="172" font-size="12" fill="#ccc">car, book</text>
+  </g>
+  <!-- arrows -->
+  <g stroke="#999" stroke-width="2" marker-end="url(#ah)">
+    <line x1="130" y1="155" x2="148" y2="155"/>
+    <line x1="270" y1="155" x2="288" y2="155"/>
+    <line x1="420" y1="155" x2="438" y2="155"/>
+    <line x1="550" y1="155" x2="568" y2="155"/>
+  </g>
+  <defs><marker id="ah" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#999"/></marker></defs>
+
+  <!-- example -->
+  <rect x="40" y="230" width="780" height="110" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="60" y="265" font-size="18" font-weight="bold" fill="#c0392b">Example</text>
+  <text x="60" y="298" font-size="20" fill="#1a1a1a">a  beautiful  new  small  red  car</text>
+  <text x="60" y="326" font-size="14" fill="#666">opinion . size . color . noun  —  say it slowly, that IS the natural rhythm</text>
+</svg>

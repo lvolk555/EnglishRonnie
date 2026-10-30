@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" font-family="DejaVu Sans, sans-serif">
+  <rect width="860" height="470" fill="#ffffff"/>
+  <text x="430" y="44" font-size="26" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Present Simple — the "every day" tense</text>
+  <text x="430" y="72" font-size="15" text-anchor="middle" fill="#666">For habits, facts and routines. The ONLY hard part is the 3rd person (he/she/it)</text>
+
+  <!-- two columns -->
+  <g>
+    <rect x="40" y="100" width="380" height="120" rx="12" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+    <text x="230" y="135" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c6fbb">I / you / we / they</text>
+    <text x="230" y="165" font-size="17" text-anchor="middle" fill="#1a1a1a">base verb (NO change)</text>
+    <text x="230" y="195" font-size="15" text-anchor="middle" fill="#555">I like.  You live.  We go.</text>
+  </g>
+  <g>
+    <rect x="440" y="100" width="380" height="120" rx="12" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+    <text x="630" y="135" font-size="18" font-weight="bold" text-anchor="middle" fill="#e08a1e">he / she / it</text>
+    <text x="630" y="165" font-size="17" text-anchor="middle" fill="#1a1a1a">verb + -s / -es</text>
+    <text x="630" y="195" font-size="15" text-anchor="middle" fill="#555">he likes.  she lives.  it goes.</text>
+  </g>
+
+  <!-- spelling rules -->
+  <text x="40" y="260" font-size="18" font-weight="bold" fill="#3a9d5d">Spelling the -s form</text>
+  <rect x="40" y="275" width="780" height="120" rx="10" fill="#eafbf0" stroke="#3a9d5d" stroke-width="1.5"/>
+  <text x="60" y="305" font-size="15" fill="#1a1a1a">+ s        like -> likes      live -> lives      eat -> eats</text>
+  <text x="60" y="335" font-size="15" fill="#1a1a1a">+ es       go -> goes        watch -> watches    (ends in -s, -ch, -sh, -x, -o)</text>
+  <text x="60" y="365" font-size="15" fill="#1a1a1a">y -> ies   study -> studies   (consonant + y)   BUT play -> plays (vowel + y)</text>
+
+  <!-- negative & question -->
+  <text x="40" y="420" font-size="18" font-weight="bold" fill="#c0392b">Negative &amp; Question</text>
+  <text x="60" y="448" font-size="15" fill="#1a1a1a">I don't like.  He doesn't like.  (does NOT change the verb back!)</text>
+  <text x="60" y="460" font-size="13" fill="#666"></text>
+  <text x="460" y="448" font-size="15" fill="#1a1a1a">Do you like?  Does she live?  (Does already carries the -s)</text>
+</svg>

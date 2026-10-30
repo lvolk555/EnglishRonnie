@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" font-family="DejaVu Sans, sans-serif">
+  <rect width="860" height="380" fill="#ffffff"/>
+  <text x="430" y="44" font-size="26" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Frequency adverbs</text>
+  <text x="430" y="72" font-size="15" text-anchor="middle" fill="#666">How OFTEN?  Always = 100%, Never = 0%</text>
+
+  <!-- scale -->
+  <rect x="60" y="100" width="740" height="34" rx="6" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="1.5"/>
+  <g font-size="13" text-anchor="middle" fill="#1a1a1a">
+    <text x="120" y="122">always</text>
+    <text x="270" y="122">usually</text>
+    <text x="410" y="122">often</text>
+    <text x="560" y="122">sometimes</text>
+    <text x="720" y="122">never</text>
+  </g>
+  <g stroke="#999" stroke-width="1"><line x1="120" y1="134" x2="120" y2="146"/><line x1="270" y1="134" x2="270" y2="146"/><line x1="410" y1="134" x2="410" y2="146"/><line x1="560" y1="134" x2="560" y2="146"/><line x1="720" y1="134" x2="720" y2="146"/></g>
+  <text x="60" y="166" font-size="12" fill="#999">100%</text><text x="700" y="166" font-size="12" fill="#999">0%</text>
+
+  <!-- position rules -->
+  <text x="60" y="210" font-size="18" font-weight="bold" fill="#3a9d5d">Position</text>
+  <rect x="60" y="225" width="740" height="60" rx="10" fill="#eafbf0" stroke="#3a9d5d" stroke-width="1.5"/>
+  <text x="80" y="252" font-size="15" fill="#1a1a1a">With a normal verb:  adverb BEFORE the verb</text>
+  <text x="80" y="276" font-size="15" fill="#1a1a1a">  I <tspan fill="#c0392b" font-weight="bold">always</tspan> get up early.   We <tspan fill="#c0392b" font-weight="bold">often</tspan> go shopping.</text>
+
+  <rect x="60" y="300" width="740" height="60" rx="10" fill="#fdeee0" stroke="#e08a1e" stroke-width="1.5"/>
+  <text x="80" y="327" font-size="15" fill="#1a1a1a">With the verb BE:  adverb AFTER be</text>
+  <text x="80" y="351" font-size="15" fill="#1a1a1a">  She <tspan fill="#c0392b" font-weight="bold">is often</tspan> late.   They <tspan fill="#c0392b" font-weight="bold">are never</tspan> busy.</text>
+</svg>

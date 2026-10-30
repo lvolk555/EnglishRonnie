@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="0 0 840 560" font-family="DejaVu Sans, sans-serif">
+  <rect width="840" height="560" fill="#ffffff"/>
+  <text x="420" y="44" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">The verb BE: am / is / are</text>
+  <text x="420" y="72" font-size="15" text-anchor="middle" fill="#666">The "is / are" word — used for identity, state, origin, age</text>
+
+  <!-- three blocks -->
+  <g>
+    <rect x="60" y="110" width="220" height="120" rx="12" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+    <text x="170" y="148" font-size="20" font-weight="bold" text-anchor="middle" fill="#2c6fbb">I</text>
+    <text x="170" y="182" font-size="22" text-anchor="middle" fill="#1a1a1a">am  ( I'm )</text>
+    <text x="170" y="212" font-size="14" text-anchor="middle" fill="#555">I am Hugo. = I'm Hugo.</text>
+  </g>
+  <g>
+    <rect x="310" y="110" width="220" height="120" rx="12" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+    <text x="420" y="142" font-size="18" font-weight="bold" text-anchor="middle" fill="#3a9d5d">you / we / they</text>
+    <text x="420" y="178" font-size="22" text-anchor="middle" fill="#1a1a1a">are  ( 're )</text>
+    <text x="420" y="210" font-size="14" text-anchor="middle" fill="#555">They are = They're</text>
+  </g>
+  <g>
+    <rect x="560" y="110" width="220" height="120" rx="12" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+    <text x="670" y="142" font-size="18" font-weight="bold" text-anchor="middle" fill="#e08a1e">he / she / it</text>
+    <text x="670" y="178" font-size="22" text-anchor="middle" fill="#1a1a1a">is  ( 's )</text>
+    <text x="670" y="210" font-size="14" text-anchor="middle" fill="#555">She is = She's</text>
+  </g>
+
+  <!-- negative -->
+  <text x="60" y="280" font-size="18" font-weight="bold" fill="#c0392b">NEGATIVE  (add "not")</text>
+  <rect x="60" y="295" width="720" height="60" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="80" y="322" font-size="15" fill="#1a1a1a">I'm not. / You aren't. / He isn't. / She isn't. / We aren't. / They aren't.</text>
+  <text x="80" y="345" font-size="14" fill="#666">is not = isn't   •   are not = aren't   •   am not has NO short form</text>
+
+  <!-- question -->
+  <text x="60" y="390" font-size="18" font-weight="bold" fill="#2c6fbb">QUESTION  (BE first)</text>
+  <rect x="60" y="405" width="720" height="60" rx="10" fill="#eef5fc" stroke="#2c6fbb" stroke-width="1.5"/>
+  <text x="80" y="432" font-size="15" fill="#1a1a1a">Am I...? / Are you...? / Is he...? / Is she...? / Are they...?</text>
+  <text x="80" y="455" font-size="14" fill="#666">Where are you from?  (NOT "is")   •   How are you?  (NOT "How is you?")</text>
+
+  <!-- short answer -->
+  <text x="60" y="500" font-size="18" font-weight="bold" fill="#3a9d5d">SHORT ANSWER</text>
+  <text x="80" y="525" font-size="15" fill="#1a1a1a">Yes, I am. / No, I'm not.   •   Yes, he is. / No, she isn't.   •   Yes, they are. / No, they aren't.</text>
+</svg>

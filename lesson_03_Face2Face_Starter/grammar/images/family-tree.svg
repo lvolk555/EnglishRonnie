@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420" font-family="DejaVu Sans, sans-serif">
+  <rect width="860" height="420" fill="#ffffff"/>
+  <text x="430" y="44" font-size="26" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Family tree</text>
+  <text x="430" y="72" font-size="15" text-anchor="middle" fill="#666">The words you need to talk about relatives</text>
+
+  <!-- grandparents -->
+  <rect x="150" y="110" width="160" height="56" rx="10" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="230" y="138" font-size="17" font-weight="bold" text-anchor="middle" fill="#2c6fbb">grandmother</text>
+  <text x="230" y="158" font-size="12" text-anchor="middle" fill="#555">(grandma)</text>
+  <rect x="550" y="110" width="160" height="56" rx="10" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="630" y="138" font-size="17" font-weight="bold" text-anchor="middle" fill="#2c6fbb">grandfather</text>
+  <text x="630" y="158" font-size="12" text-anchor="middle" fill="#555">(grandpa)</text>
+  <line x1="310" y1="138" x2="550" y2="138" stroke="#999" stroke-width="2"/>
+
+  <!-- parents -->
+  <rect x="250" y="220" width="160" height="56" rx="10" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+  <text x="330" y="248" font-size="17" font-weight="bold" text-anchor="middle" fill="#3a9d5d">father</text>
+  <text x="330" y="268" font-size="12" text-anchor="middle" fill="#555">(dad)</text>
+  <rect x="450" y="220" width="160" height="56" rx="10" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+  <text x="530" y="248" font-size="17" font-weight="bold" text-anchor="middle" fill="#e08a1e">mother</text>
+  <text x="530" y="268" font-size="12" text-anchor="middle" fill="#555">(mum)</text>
+  <line x1="410" y1="248" x2="450" y2="248" stroke="#999" stroke-width="2"/>
+  <line x1="230" y1="166" x2="330" y2="220" stroke="#999" stroke-width="2"/>
+  <line x1="630" y1="166" x2="530" y2="220" stroke="#999" stroke-width="2"/>
+
+  <!-- children -->
+  <rect x="150" y="330" width="140" height="50" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="220" y="360" font-size="16" text-anchor="middle" fill="#c0392b">brother</text>
+  <rect x="360" y="330" width="140" height="50" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="430" y="360" font-size="16" text-anchor="middle" fill="#c0392b">sister</text>
+  <rect x="570" y="330" width="140" height="50" rx="10" fill="#1a1a1a"/>
+  <text x="640" y="360" font-size="16" text-anchor="middle" fill="#fff">me / I</text>
+  <line x1="330" y1="276" x2="220" y2="330" stroke="#999" stroke-width="2"/>
+  <line x1="330" y1="276" x2="430" y2="330" stroke="#999" stroke-width="2"/>
+  <line x1="530" y1="276" x2="640" y2="330" stroke="#999" stroke-width="2"/>
+
+  <!-- also -->
+  <text x="60" y="410" font-size="14" fill="#666">Also: parents (father + mother)  •  son / daughter  •  child (one) / children (many)  •  wife / husband</text>
+</svg>
