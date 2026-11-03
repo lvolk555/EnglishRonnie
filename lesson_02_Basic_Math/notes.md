@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 0c72a940a7672a7fa6a25b950c7c14d8_45cfb8e8d77311f1a286525400638852
+    ReservedCode1: j3YcDkc62wuz1vnUyfO0rqMZF5hs0ML+jBjmFD6H32AJhh0hBY8P1A9viWxGrWUS/ZjySRCb6qAi4c5YFx3rn9KfLqxjV85r4r2gN+fZ57sMs1Sv0m4EfHYtD7fIes3Kom+/zhgXWi5WF74DwyyUYnZuyhyoVMH5MtcvcUyftnIvd7nWDWPrJdKUHoc=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 0c72a940a7672a7fa6a25b950c7c14d8_45cfb8e8d77311f1a286525400638852
+    ReservedCode2: j3YcDkc62wuz1vnUyfO0rqMZF5hs0ML+jBjmFD6H32AJhh0hBY8P1A9viWxGrWUS/ZjySRCb6qAi4c5YFx3rn9KfLqxjV85r4r2gN+fZ57sMs1Sv0m4EfHYtD7fIes3Kom+/zhgXWi5WF74DwyyUYnZuyhyoVMH5MtcvcUyftnIvd7nWDWPrJdKUHoc=
+---
+
 # Lesson 2: Basic MATH Vocabulary in English (Study Notes)
 
 > Teacher: Ronnie (English with Ronnie / engVid)
@@ -26,6 +37,8 @@ This is the most important part of the lesson:
 | − | **subtract** (减) | **minus** | 7 − 1 | seven **minus** one |
 | ÷ | **divide** (除) | **divided by** | 42 ÷ 2 | forty-two **divided by** two |
 | × | **multiply** (乘) | **times** | 9 × 7 | nine **times** seven |
+
+![How to Say Math Symbols in English](images/math_symbols.png)
 
 **Rule:** In everyday English, when we say an equation OUT LOUD, we do NOT say "add / subtract / divide / multiply". We say **plus / minus / divided by / times**. The formal words are used in writing or formal situations.
 
@@ -92,3 +105,4 @@ It only works up to 10 — after that you run out of fingers!
 ## 7. Homework from Ronnie
 
 Go to Ronnie's YouTube channel and write the answer to "seven minus one" in the comments!
+*（内容由AI生成，仅供参考）*
