@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="42" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Past Simple of BE: was / were</text>
+  <text x="450" y="70" font-size="16" text-anchor="middle" fill="#666">Melanie, Tania and Pascal describe their "amazing days"</text>
+
+  <!-- table positive -->
+  <rect x="70" y="105" width="360" height="200" rx="12" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="250" y="138" font-size="19" font-weight="bold" text-anchor="middle" fill="#2c6fbb">POSITIVE (+)</text>
+  <text x="100" y="175" font-size="16" fill="#1a1a1a">I / he / she / it  <tspan font-weight="bold" font-size="18">was</tspan></text>
+  <text x="100" y="210" font-size="16" fill="#1a1a1a">you / we / they  <tspan font-weight="bold" font-size="18">were</tspan></text>
+  <text x="100" y="250" font-size="15" fill="#555">I was at the concert.</text>
+  <text x="100" y="278" font-size="15" fill="#555">There were 25,000 people.</text>
+
+  <!-- table negative -->
+  <rect x="470" y="105" width="360" height="200" rx="12" fill="#fdf3f2" stroke="#c0392b" stroke-width="2"/>
+  <text x="650" y="138" font-size="19" font-weight="bold" text-anchor="middle" fill="#c0392b">NEGATIVE (−)</text>
+  <text x="500" y="175" font-size="16" fill="#1a1a1a">I / he / she / it  <tspan font-weight="bold" font-size="18">wasn't</tspan></text>
+  <text x="500" y="210" font-size="16" fill="#1a1a1a">you / we / they  <tspan font-weight="bold" font-size="18">weren't</tspan></text>
+  <text x="500" y="250" font-size="15" fill="#555">The stadium wasn't full.</text>
+  <text x="500" y="278" font-size="15" fill="#555">They weren't very happy.</text>
+
+  <!-- there was/were -->
+  <rect x="70" y="335" width="760" height="145" rx="12" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+  <text x="100" y="368" font-size="18" font-weight="bold" fill="#3a9d5d">For places &amp; things, the past of there is / there are:</text>
+  <text x="100" y="402" font-size="17" fill="#1a1a1a"><tspan font-weight="bold">there was</tspan> + singular     There was a famous musician.</text>
+  <text x="100" y="432" font-size="17" fill="#1a1a1a"><tspan font-weight="bold">there were</tspan> + plural     There were about 17,000 empty seats!</text>
+  <text x="100" y="462" font-size="15" fill="#666">Why past? Because the whole story already happened (last concert, last year).</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="42" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">be going to — future plans</text>
+  <text x="450" y="70" font-size="16" text-anchor="middle" fill="#666">Sabrina, Carmen, Luca and Wing Yu talk about what they WILL do</text>
+
+  <!-- timeline -->
+  <rect x="80" y="110" width="740" height="26" rx="13" fill="#eaf2fb"/>
+  <line x1="110" y1="123" x2="760" y2="123" stroke="#2c6fbb" stroke-width="3"/>
+  <polygon points="760,116 778,123 760,130" fill="#2c6fbb"/>
+  <text x="120" y="160" font-size="15" fill="#2c6fbb" font-weight="bold">NOW</text>
+  <text x="560" y="160" font-size="15" fill="#3a9d5d" font-weight="bold">THE FUTURE</text>
+  <text x="330" y="103" font-size="13" fill="#666" text-anchor="middle">plans made now, happening later</text>
+
+  <!-- structure -->
+  <rect x="80" y="195" width="740" height="120" rx="12" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+  <text x="110" y="228" font-size="18" font-weight="bold" fill="#e08a1e">The pattern:</text>
+  <text x="110" y="262" font-size="17" fill="#1a1a1a"><tspan font-weight="bold">subject + am/is/are going to + verb</tspan></text>
+  <text x="110" y="296" font-size="17" fill="#c0392b">I'm going to <tspan font-weight="bold">do</tspan> a computer course.   We're going to <tspan font-weight="bold">move</tspan> to Miami.</text>
+
+  <!-- negative -->
+  <rect x="80" y="335" width="740" height="145" rx="12" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+  <text x="110" y="368" font-size="18" font-weight="bold" fill="#3a9d5d">Real sentences from the book (imitate these):</text>
+  <text x="110" y="400" font-size="16" fill="#1a1a1a">I'm going to leave school in June.  (Sabrina)</text>
+  <text x="110" y="428" font-size="16" fill="#1a1a1a">I'm <tspan font-weight="bold" fill="#c0392b">not</tspan> going to start university this year.  (negative)</text>
+  <text x="110" y="456" font-size="16" fill="#1a1a1a">Our two sons are going to move to Mexico City.  (Carmen)</text>
+</svg>

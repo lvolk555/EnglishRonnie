@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="42" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">How to describe a TOWN  (there is / there are)</text>
+  <text x="450" y="70" font-size="16" text-anchor="middle" fill="#666">Susan describes Bath like this — copy the pattern for your own town</text>
+
+  <!-- map box -->
+  <rect x="60" y="100" width="780" height="250" rx="14" fill="#f6f9f4" stroke="#3a9d5d" stroke-width="2"/>
+  <text x="90" y="135" font-size="18" font-weight="bold" fill="#3a9d5d">In the centre of my town...</text>
+  <g font-size="15" fill="#1a1a1a">
+    <text x="90" y="172">🏢  There are a lot of <tspan font-weight="bold">old buildings</tspan>.</text>
+    <text x="90" y="204">🌳  There are some <tspan font-weight="bold">nice parks</tspan>.</text>
+    <text x="90" y="236">🎭  There are five <tspan font-weight="bold">theatres</tspan> and some good <tspan font-weight="bold">museums</tspan>.</text>
+    <text x="90" y="268">🍽️  There are a lot of <tspan font-weight="bold">restaurants</tspan> and <tspan font-weight="bold">hotels</tspan>.</text>
+    <text x="90" y="300">🏬  There's a big new <tspan font-weight="bold">shopping centre</tspan>.</text>
+    <text x="90" y="332">🚆  There are <tspan font-weight="bold">trains</tspan> to London every half an hour.</text>
+  </g>
+
+  <!-- rule -->
+  <rect x="60" y="380" width="780" height="110" rx="12" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="90" y="412" font-size="17" font-weight="bold" fill="#2c6fbb">The pattern (memorise the rhythm):</text>
+  <text x="90" y="442" font-size="16" fill="#1a1a1a"><tspan font-weight="bold">There is / There's</tspan> + a/an + singular thing</text>
+  <text x="90" y="470" font-size="16" fill="#1a1a1a"><tspan font-weight="bold">There are</tspan> + some / a lot of + plural things</text>
+</svg>

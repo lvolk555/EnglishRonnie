@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="42" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">love / like / hate  + noun  or  + -ing</text>
+  <text x="450" y="70" font-size="16" text-anchor="middle" fill="#666">Jack and Jenny use these to say what they love, like and hate</text>
+
+  <!-- scale -->
+  <rect x="70" y="110" width="760" height="40" rx="20" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="1.5"/>
+  <g font-size="17" text-anchor="middle" font-weight="bold">
+    <text x="160" y="137" fill="#3a9d5d">love</text>
+    <text x="360" y="137" fill="#2c6fbb">like</text>
+    <text x="560" y="137" fill="#e08a1e">don't like</text>
+    <text x="750" y="137" fill="#c0392b">hate</text>
+  </g>
+
+  <!-- pattern box -->
+  <rect x="70" y="180" width="760" height="120" rx="12" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+  <text x="100" y="212" font-size="18" font-weight="bold" fill="#e08a1e">Two things can follow these verbs:</text>
+  <text x="100" y="245" font-size="16" fill="#1a1a1a">① a <tspan font-weight="bold">noun</tspan>    I love <tspan font-weight="bold" fill="#2c6fbb">Italian food</tspan>.   She likes <tspan font-weight="bold" fill="#2c6fbb">soap operas</tspan>.</text>
+  <text x="100" y="278" font-size="16" fill="#1a1a1a">② <tspan font-weight="bold">verb + -ing</tspan>   I love <tspan font-weight="bold" fill="#3a9d5d">watching</tspan> sport.   He hates <tspan font-weight="bold" fill="#3a9d5d">shopping</tspan>.</text>
+
+  <!-- example -->
+  <rect x="70" y="330" width="760" height="150" rx="12" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+  <text x="100" y="362" font-size="18" font-weight="bold" fill="#3a9d5d">Twin example (copy this rhythm):</text>
+  <text x="100" y="395" font-size="16" fill="#1a1a1a">We both <tspan font-weight="bold">like watching</tspan> TV, but I <tspan font-weight="bold">love watching</tspan> sport and Jenny <tspan font-weight="bold">hates</tspan> it.</text>
+  <text x="100" y="425" font-size="16" fill="#1a1a1a">I <tspan font-weight="bold">don't like horror films</tspan>, but I <tspan font-weight="bold">love</tspan> them. / I <tspan font-weight="bold">like having</tspan> a twin sister.</text>
+  <text x="100" y="455" font-size="15" fill="#666">Tip: use "but" to contrast two people — it makes your writing flow.</text>
+</svg>

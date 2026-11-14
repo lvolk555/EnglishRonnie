@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620" font-family="DejaVu Sans, sans-serif">
+  <rect width="920" height="620" fill="#ffffff"/>
+  <text x="460" y="42" font-size="27" font-weight="bold" text-anchor="middle" fill="#1a1a1a">How to write a HOLIDAY paragraph</text>
+  <text x="460" y="70" font-size="16" text-anchor="middle" fill="#666">Past Simple — this is exactly how Nancy, Jeff and Bob &amp; Liz write</text>
+
+  <!-- step 1 -->
+  <rect x="50" y="100" width="820" height="72" rx="10" fill="#eaf2fb" stroke="#2c6fbb" stroke-width="2"/>
+  <circle cx="86" cy="136" r="18" fill="#2c6fbb"/><text x="86" y="142" font-size="18" font-weight="bold" text-anchor="middle" fill="#fff">1</text>
+  <text x="120" y="128" font-size="17" font-weight="bold" fill="#2c6fbb">WHERE &amp; WHEN  (open with the trip)</text>
+  <text x="120" y="154" font-size="16" fill="#1a1a1a">I went on holiday to Istanbul last year. / Last year I travelled around Colombia.</text>
+
+  <!-- step 2 -->
+  <rect x="50" y="182" width="820" height="72" rx="10" fill="#eafbf0" stroke="#3a9d5d" stroke-width="2"/>
+  <circle cx="86" cy="218" r="18" fill="#3a9d5d"/><text x="86" y="224" font-size="18" font-weight="bold" text-anchor="middle" fill="#fff">2</text>
+  <text x="120" y="210" font-size="17" font-weight="bold" fill="#3a9d5d">WHERE YOU STAYED  (hotel / friends)</text>
+  <text x="120" y="236" font-size="16" fill="#1a1a1a">I didn't stay in a hotel, I stayed with some friends. / I stayed in a nice hotel.</text>
+
+  <!-- step 3 -->
+  <rect x="50" y="264" width="820" height="72" rx="10" fill="#fdeee0" stroke="#e08a1e" stroke-width="2"/>
+  <circle cx="86" cy="300" r="18" fill="#e08a1e"/><text x="86" y="306" font-size="18" font-weight="bold" text-anchor="middle" fill="#fff">3</text>
+  <text x="120" y="292" font-size="17" font-weight="bold" fill="#e08a1e">WHAT YOU DID  (activities, past)</text>
+  <text x="120" y="318" font-size="16" fill="#1a1a1a">We went sightseeing. / I took a lot of photos. / We rented a car and visited places.</text>
+
+  <!-- step 4 -->
+  <rect x="50" y="346" width="820" height="72" rx="10" fill="#f3e8fb" stroke="#8e44ad" stroke-width="2"/>
+  <circle cx="86" cy="382" r="18" fill="#8e44ad"/><text x="86" y="388" font-size="18" font-weight="bold" text-anchor="middle" fill="#fff">4</text>
+  <text x="120" y="374" font-size="17" font-weight="bold" fill="#8e44ad">YOUR FAVOURITE PLACE  (a reason)</text>
+  <text x="120" y="400" font-size="16" fill="#1a1a1a">My favourite place was the Blue Mosque – it's very beautiful.</text>
+
+  <!-- step 5 -->
+  <rect x="50" y="428" width="820" height="72" rx="10" fill="#fdf3f2" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="86" cy="464" r="18" fill="#c0392b"/><text x="86" y="470" font-size="18" font-weight="bold" text-anchor="middle" fill="#fff">5</text>
+  <text x="120" y="456" font-size="17" font-weight="bold" fill="#c0392b">A TWIST / ENDING  (makes it natural!)</text>
+  <text x="120" y="482" font-size="16" fill="#1a1a1a">But I didn't go swimming because I can't swim! / Next time, maybe!</text>
+
+  <!-- timeline -->
+  <text x="50" y="545" font-size="15" font-weight="bold" fill="#555">Timeline:</text>
+  <rect x="130" y="530" width="640" height="26" rx="13" fill="#eaf2fb"/>
+  <line x1="160" y1="543" x2="740" y2="543" stroke="#2c6fbb" stroke-width="3"/>
+  <polygon points="740,536 756,543 740,550" fill="#2c6fbb"/>
+  <text x="160" y="585" font-size="15" fill="#2c6fbb" font-weight="bold">LAST YEAR (past)</text>
+  <text x="640" y="585" font-size="15" fill="#c0392b" font-weight="bold">NOW</text>
+  <text x="360" y="522" font-size="13" fill="#666" text-anchor="middle">all the verbs go in the PAST (went, stayed, took)</text>
+</svg>
