@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="620" fill="#ffffff"/>
+  <text x="450" y="40" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Past Simple: regular vs irregular verbs</text>
+  <text x="450" y="70" font-size="14" text-anchor="middle" fill="#666">Native instinct: finished time marker (yesterday / last week / ago) → flip the verb into past</text>
+
+  <rect x="40" y="95" width="400" height="250" rx="10" fill="#e8f4fd" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="240" y="128" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c6fbb">REGULAR: verb + -ed</text>
+  <text x="60" y="165" font-size="15" fill="#1a1a1a">stay → stay<tspan font-weight="bold">ed</tspan> · walk → walk<tspan font-weight="bold">ed</tspan></text>
+  <text x="60" y="192" font-size="15" fill="#1a1a1a">travel → travel<tspan font-weight="bold">led</tspan> · like → like<tspan font-weight="bold">d</tspan></text>
+  <text x="60" y="219" font-size="15" fill="#1a1a1a">stop → stop<tspan font-weight="bold">ped</tspan> · study → stud<tspan font-weight="bold">ied</tspan></text>
+  <text x="60" y="255" font-size="14" fill="#666">Spelling: e → +d · CVC → double letter +ed · y → ied</text>
+  <text x="60" y="290" font-size="15" fill="#1a1a1a">I stay<tspan font-weight="bold">ed</tspan> in a hotel.</text>
+  <text x="60" y="317" font-size="15" fill="#1a1a1a">We travel<tspan font-weight="bold">led</tspan> around China.</text>
+
+  <rect x="460" y="95" width="400" height="250" rx="10" fill="#fde8e8" stroke="#c0392b" stroke-width="2"/>
+  <text x="660" y="128" font-size="18" font-weight="bold" text-anchor="middle" fill="#c0392b">IRREGULAR: learn by heart</text>
+  <text x="480" y="165" font-size="15" fill="#1a1a1a">go → <tspan font-weight="bold">went</tspan> · have → <tspan font-weight="bold">had</tspan></text>
+  <text x="480" y="192" font-size="15" fill="#1a1a1a">get → <tspan font-weight="bold">got</tspan> · leave → <tspan font-weight="bold">left</tspan></text>
+  <text x="480" y="219" font-size="15" fill="#1a1a1a">take → <tspan font-weight="bold">took</tspan> · buy → <tspan font-weight="bold">bought</tspan></text>
+  <text x="480" y="246" font-size="15" fill="#1a1a1a">meet → <tspan font-weight="bold">met</tspan> · come → <tspan font-weight="bold">came</tspan></text>
+  <text x="480" y="273" font-size="15" fill="#1a1a1a">see → <tspan font-weight="bold">saw</tspan> · write → <tspan font-weight="bold">wrote</tspan></text>
+  <text x="480" y="310" font-size="15" fill="#1a1a1a">I <tspan font-weight="bold">went</tspan> to Turkey last year.</text>
+
+  <rect x="40" y="375" width="820" height="115" rx="10" fill="#fff8e1" stroke="#e67e22" stroke-width="2"/>
+  <text x="60" y="410" font-size="18" font-weight="bold" fill="#e67e22">Negative &amp; question: use DID</text>
+  <text x="60" y="443" font-size="15" fill="#1a1a1a">She <tspan font-weight="bold" fill="#c0392b">didn't stay</tspan> at home. (NOT ~~didn't stayed~~) · <tspan font-weight="bold" fill="#2c6fbb">Did</tspan> you <tspan font-weight="bold" fill="#2c6fbb">go</tspan> shopping?</text>
+  <text x="60" y="470" font-size="15" fill="#1a1a1a">Short answers: Yes, I did. / No, I didn't. · did already "carries" the past → main verb back to base form.</text>
+
+  <rect x="40" y="515" width="820" height="75" rx="10" fill="#eafaf1" stroke="#27ae60" stroke-width="2"/>
+  <text x="60" y="548" font-size="16" font-weight="bold" fill="#27ae60">Time markers that trigger the Past Simple:</text>
+  <text x="60" y="575" font-size="15" fill="#1a1a1a">yesterday · last night / week / year · two days ago · in 1998 · when I was young</text>
+</svg>

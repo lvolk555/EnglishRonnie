@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="620" fill="#ffffff"/>
+  <text x="450" y="40" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a1a1a">BE GOING TO — future plans</text>
+  <text x="450" y="70" font-size="14" text-anchor="middle" fill="#666">Native instinct: the plan already exists in my head → "going to" (NOT will)</text>
+
+  <rect x="40" y="95" width="820" height="110" rx="10" fill="#e8f4fd" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="450" y="130" font-size="19" font-weight="bold" text-anchor="middle" fill="#2c6fbb">The formula (never changes!)</text>
+  <text x="450" y="175" font-size="18" text-anchor="middle" fill="#1a1a1a">subject + <tspan font-weight="bold" fill="#2c6fbb">am / is / are</tspan> + <tspan font-weight="bold" fill="#e67e22">going to</tspan> + <tspan font-weight="bold" fill="#c0392b">verb (base form)</tspan></text>
+
+  <line x1="80" y1="260" x2="820" y2="260" stroke="#999" stroke-width="3"/>
+  <polygon points="820,260 805,252 805,268" fill="#999"/>
+  <circle cx="200" cy="260" r="10" fill="#27ae60"/>
+  <circle cx="620" cy="260" r="10" fill="#2c6fbb"/>
+  <text x="200" y="240" font-size="15" text-anchor="middle" fill="#27ae60">now (plan is ready)</text>
+  <text x="620" y="240" font-size="15" text-anchor="middle" fill="#2c6fbb">tomorrow / next year</text>
+  <text x="200" y="292" font-size="15" text-anchor="middle" fill="#1a1a1a">I'm going to study English.</text>
+  <text x="620" y="292" font-size="15" text-anchor="middle" fill="#1a1a1a">→ the action happens later</text>
+
+  <rect x="40" y="330" width="265" height="175" rx="10" fill="#eafaf1" stroke="#27ae60" stroke-width="2"/>
+  <text x="172" y="362" font-size="16" font-weight="bold" text-anchor="middle" fill="#27ae60">+ positive</text>
+  <text x="55" y="398" font-size="14" fill="#1a1a1a">I'm going to leave school.</text>
+  <text x="55" y="425" font-size="14" fill="#1a1a1a">She's going to move to Rome.</text>
+  <text x="55" y="452" font-size="14" fill="#1a1a1a">We're going to get married.</text>
+  <text x="55" y="482" font-size="13" fill="#666">'m = am · 's = is · 're = are</text>
+
+  <rect x="318" y="330" width="265" height="175" rx="10" fill="#fde8e8" stroke="#c0392b" stroke-width="2"/>
+  <text x="450" y="362" font-size="16" font-weight="bold" text-anchor="middle" fill="#c0392b">− negative</text>
+  <text x="333" y="398" font-size="14" fill="#1a1a1a">I'm not going to look for a job.</text>
+  <text x="333" y="425" font-size="14" fill="#1a1a1a">He isn't going to get up early.</text>
+  <text x="333" y="452" font-size="14" fill="#1a1a1a">They aren't going to drive.</text>
+  <text x="333" y="482" font-size="13" fill="#666">isn't = is not · aren't = are not</text>
+
+  <rect x="596" y="330" width="265" height="175" rx="10" fill="#fff8e1" stroke="#e67e22" stroke-width="2"/>
+  <text x="728" y="362" font-size="16" font-weight="bold" text-anchor="middle" fill="#e67e22">? question</text>
+  <text x="611" y="398" font-size="14" fill="#1a1a1a">Are you going to have a party?</text>
+  <text x="611" y="425" font-size="14" fill="#1a1a1a">What are you going to do?</text>
+  <text x="611" y="452" font-size="14" fill="#1a1a1a">Where is she going to stay?</text>
+  <text x="611" y="482" font-size="13" fill="#666">Yes, I am. / No, I'm not.</text>
+
+  <rect x="40" y="530" width="820" height="60" rx="10" fill="#f3e5f5" stroke="#8e44ad" stroke-width="2"/>
+  <text x="450" y="555" font-size="15" text-anchor="middle" fill="#1a1a1a">⚠ Trap: it's always <tspan font-weight="bold">going to</tspan> + base verb → NOT ~~going to going~~ / ~~going study~~</text>
+  <text x="450" y="578" font-size="13" text-anchor="middle" fill="#666">In speech, "going to" often sounds like "gonna" — but write "going to" in exams.</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="40" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Subject pronouns → Object pronouns</text>
+  <text x="450" y="70" font-size="14" text-anchor="middle" fill="#666">Subject = the "doer" (starts the sentence) · Object = the "receiver" (after verb / preposition)</text>
+
+  <text x="230" y="115" font-size="17" font-weight="bold" text-anchor="middle" fill="#2c6fbb">SUBJECT (doer)</text>
+  <text x="670" y="115" font-size="17" font-weight="bold" text-anchor="middle" fill="#c0392b">OBJECT (receiver)</text>
+
+  <g font-size="16" fill="#1a1a1a">
+    <rect x="120" y="135" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="161" text-anchor="middle">I</text>
+    <rect x="560" y="135" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="161" text-anchor="middle">me</text>
+    <rect x="120" y="185" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="211" text-anchor="middle">you</text>
+    <rect x="560" y="185" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="211" text-anchor="middle">you</text>
+    <rect x="120" y="235" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="261" text-anchor="middle">he</text>
+    <rect x="560" y="235" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="261" text-anchor="middle">him</text>
+    <rect x="120" y="285" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="311" text-anchor="middle">she</text>
+    <rect x="560" y="285" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="311" text-anchor="middle">her</text>
+    <rect x="120" y="335" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="361" text-anchor="middle">it</text>
+    <rect x="560" y="335" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="361" text-anchor="middle">it</text>
+    <rect x="120" y="385" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="411" text-anchor="middle">we</text>
+    <rect x="560" y="385" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="411" text-anchor="middle">us</text>
+    <rect x="120" y="435" width="220" height="40" rx="8" fill="#e8f4fd" stroke="#2c6fbb"/><text x="230" y="461" text-anchor="middle">they</text>
+    <rect x="560" y="435" width="220" height="40" rx="8" fill="#fde8e8" stroke="#c0392b"/><text x="670" y="461" text-anchor="middle">them</text>
+  </g>
+
+  <g stroke="#e67e22" stroke-width="2.5">
+    <line x1="350" y1="155" x2="545" y2="155"/><polygon points="545,155 533,150 533,160" fill="#e67e22"/>
+    <line x1="350" y1="205" x2="545" y2="205"/><polygon points="545,205 533,200 533,210" fill="#e67e22"/>
+    <line x1="350" y1="255" x2="545" y2="255"/><polygon points="545,255 533,250 533,260" fill="#e67e22"/>
+    <line x1="350" y1="305" x2="545" y2="305"/><polygon points="545,305 533,300 533,310" fill="#e67e22"/>
+    <line x1="350" y1="355" x2="545" y2="355"/><polygon points="545,355 533,350 533,360" fill="#e67e22"/>
+    <line x1="350" y1="405" x2="545" y2="405"/><polygon points="545,405 533,400 533,410" fill="#e67e22"/>
+    <line x1="350" y1="455" x2="545" y2="455"/><polygon points="545,455 533,450 533,460" fill="#e67e22"/>
+  </g>
+
+  <rect x="40" y="495" width="820" height="50" rx="10" fill="#fff8e1" stroke="#e67e22" stroke-width="2"/>
+  <text x="450" y="525" font-size="15" text-anchor="middle" fill="#1a1a1a">She loves <tspan font-weight="bold" fill="#c0392b">him</tspan>. (NOT ~~She loves he~~) · Do you know <tspan font-weight="bold" fill="#c0392b">them</tspan>? · Ian hates <tspan font-weight="bold" fill="#c0392b">it</tspan>.</text>
+</svg>

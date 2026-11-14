@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="620" fill="#ffffff"/>
+  <text x="450" y="40" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Past Simple of BE: was / were</text>
+  <text x="450" y="70" font-size="14" text-anchor="middle" fill="#666">Native instinct: "the party is over" — everything moves to the past tense box</text>
+
+  <line x1="80" y1="130" x2="820" y2="130" stroke="#999" stroke-width="3"/>
+  <polygon points="820,130 805,122 805,138" fill="#999"/>
+  <circle cx="220" cy="130" r="10" fill="#c0392b"/>
+  <circle cx="650" cy="130" r="10" fill="#27ae60"/>
+  <text x="220" y="110" font-size="15" text-anchor="middle" fill="#c0392b">yesterday / last night</text>
+  <text x="650" y="110" font-size="15" text-anchor="middle" fill="#27ae60">now / today</text>
+  <text x="220" y="165" font-size="16" font-weight="bold" text-anchor="middle" fill="#c0392b">PAST → was / were</text>
+  <text x="650" y="165" font-size="16" font-weight="bold" text-anchor="middle" fill="#27ae60">NOW → am / is / are</text>
+
+  <rect x="40" y="200" width="400" height="210" rx="10" fill="#e8f4fd" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="240" y="233" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c6fbb">WAS = I / he / she / it</text>
+  <text x="60" y="272" font-size="15" fill="#1a1a1a">I <tspan font-weight="bold">was</tspan> at home last night.</text>
+  <text x="60" y="300" font-size="15" fill="#1a1a1a">She <tspan font-weight="bold">was</tspan> born in 1998.</text>
+  <text x="60" y="328" font-size="15" fill="#c0392b">He <tspan font-weight="bold">wasn't</tspan> at the party.</text>
+  <text x="60" y="356" font-size="15" fill="#1a1a1a">Was she happy? → Yes, she was.</text>
+  <text x="60" y="388" font-size="13" fill="#666">wasn't = was not</text>
+
+  <rect x="460" y="200" width="400" height="210" rx="10" fill="#fde8e8" stroke="#c0392b" stroke-width="2"/>
+  <text x="660" y="233" font-size="18" font-weight="bold" text-anchor="middle" fill="#c0392b">WERE = you / we / they</text>
+  <text x="480" y="272" font-size="15" fill="#1a1a1a">You <tspan font-weight="bold">were</tspan> late for class.</text>
+  <text x="480" y="300" font-size="15" fill="#1a1a1a">They <tspan font-weight="bold">were</tspan> at the stadium.</text>
+  <text x="480" y="328" font-size="15" fill="#c0392b">We <tspan font-weight="bold">weren't</tspan> at home.</text>
+  <text x="480" y="356" font-size="15" fill="#1a1a1a">Were they happy? → Yes, they were.</text>
+  <text x="480" y="388" font-size="13" fill="#666">weren't = were not</text>
+
+  <rect x="40" y="440" width="820" height="140" rx="10" fill="#fff8e1" stroke="#e67e22" stroke-width="2"/>
+  <text x="60" y="475" font-size="18" font-weight="bold" fill="#e67e22">Common traps (from Workbook)</text>
+  <text x="60" y="508" font-size="15" fill="#1a1a1a">✖ Where was you? → ✔ Where <tspan font-weight="bold">were</tspan> you?  (you always takes were)</text>
+  <text x="60" y="535" font-size="15" fill="#1a1a1a">✖ Was there a lot of people? → ✔ <tspan font-weight="bold">Were</tspan> there a lot of people?  (people = plural)</text>
+  <text x="60" y="562" font-size="15" fill="#1a1a1a">✖ I born in 2001. → ✔ I <tspan font-weight="bold">was</tspan> born in 2001.  (be born = fixed phrase)</text>
+</svg>

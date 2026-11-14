@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="DejaVu Sans, sans-serif">
+  <rect width="900" height="600" fill="#ffffff"/>
+  <text x="450" y="40" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a1a1a">There is / There are + a, some, any</text>
+  <text x="450" y="70" font-size="14" text-anchor="middle" fill="#666">Native instinct: point at the scene first ("There's..."), then name the thing</text>
+
+  <rect x="40" y="95" width="400" height="230" rx="10" fill="#e8f4fd" stroke="#2c6fbb" stroke-width="2"/>
+  <text x="240" y="128" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c6fbb">THERE IS = one thing</text>
+  <rect x="120" y="150" width="60" height="45" rx="6" fill="#2c6fbb"/>
+  <text x="150" y="180" font-size="14" text-anchor="middle" fill="#fff">a park</text>
+  <text x="240" y="225" font-size="15" text-anchor="middle" fill="#1a1a1a">There is a park in the town.</text>
+  <text x="240" y="252" font-size="15" text-anchor="middle" fill="#1a1a1a">There's a museum next to the café.</text>
+  <text x="240" y="290" font-size="14" text-anchor="middle" fill="#c0392b">There isn't a station here.</text>
+  <text x="240" y="312" font-size="13" text-anchor="middle" fill="#666">isn't = is not (short form)</text>
+
+  <rect x="460" y="95" width="400" height="230" rx="10" fill="#fde8e8" stroke="#c0392b" stroke-width="2"/>
+  <text x="660" y="128" font-size="18" font-weight="bold" text-anchor="middle" fill="#c0392b">THERE ARE = two or more</text>
+  <rect x="520" y="150" width="55" height="45" rx="6" fill="#c0392b"/>
+  <rect x="590" y="150" width="55" height="45" rx="6" fill="#c0392b"/>
+  <rect x="660" y="150" width="55" height="45" rx="6" fill="#c0392b"/>
+  <text x="642" y="180" font-size="14" text-anchor="middle" fill="#fff">cafés</text>
+  <text x="660" y="225" font-size="15" text-anchor="middle" fill="#1a1a1a">There are some nice cafés.</text>
+  <text x="660" y="252" font-size="15" text-anchor="middle" fill="#1a1a1a">There are a lot of tourists.</text>
+  <text x="660" y="290" font-size="14" text-anchor="middle" fill="#c0392b">There aren't any shops.</text>
+  <text x="660" y="312" font-size="13" text-anchor="middle" fill="#666">aren't = are not (short form)</text>
+
+  <rect x="40" y="355" width="820" height="105" rx="10" fill="#fff8e1" stroke="#e67e22" stroke-width="2"/>
+  <text x="60" y="388" font-size="18" font-weight="bold" fill="#e67e22">a / some / any — which one?</text>
+  <text x="60" y="420" font-size="15" fill="#1a1a1a">a + singular noun (a park) · some + plural/uncountable, positive (some cafés) · any + questions &amp; negatives (any shops?)</text>
+  <text x="60" y="447" font-size="15" fill="#1a1a1a">Is there a bank? → Yes, there is. · Are there any museums? → No, there aren't.</text>
+
+  <rect x="40" y="485" width="820" height="85" rx="10" fill="#eafaf1" stroke="#27ae60" stroke-width="2"/>
+  <text x="60" y="518" font-size="16" font-weight="bold" fill="#27ae60">Word order is fixed:</text>
+  <text x="60" y="550" font-size="15" fill="#1a1a1a">There is/are + (a/some/any) + noun + place.  →  There's a park near the river. (NOT ~~A park is there~~)</text>
+</svg>
